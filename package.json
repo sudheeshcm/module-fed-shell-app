@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "serve": "wsrun --parallel serve",
+    "start": "lerna bootstrap && npx lerna run start --parallel"
+  },
+  "devDependencies": {
+    "concurrently": "^5.1.0",
+    "lerna": "^3.22.1",
+    "wsrun": "^5.2.0"
+  },
+  "name": "MF-shared-routing"
+}

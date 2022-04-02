@@ -1,0 +1,9 @@
+{
+  "packages": [
+    "packages/shell",
+    "packages/order",
+    "packages/profile",
+    "packages/sales"
+  ],
+  "version": "0.0.0"
+}
